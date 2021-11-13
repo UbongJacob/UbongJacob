@@ -16,7 +16,7 @@
 </p>
 
  <br/>
-    <a href="https://github.com/UbongJacob/github-readme-stats"><img alt="Ubong Jacob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UbongJacob&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&?hide=Contributed to" /></a>
+    <a href="https://github.com/UbongJacob/github-readme-stats"><img alt="Ubong Jacob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UbongJacob&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&?hide=Contributed%20to" /></a>
 
 <a href="https://github.com/UbongJacob/github-readme-activity-graph"><img alt="Ubong Jacob's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UbongJacob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
