@@ -17,7 +17,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UbongJacob&show_icons=true&count_private=true)  
 
-<a href="https://github.com/UbongJacob/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/UbongJacob/github-readme-activity-graph"><img alt="Ubong Jacob's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UbongJacob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 ### Connect with me:
