@@ -20,11 +20,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UbongJacob)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbongJacob)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UbongJacob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/UbonggJacob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jacobubong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UbonggJacob)  
-
-
+<a href = "https://www.linkedin.com/in/ubongjacob"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/UbonggJacob"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/jacobubong"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
