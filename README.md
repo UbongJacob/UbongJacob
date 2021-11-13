@@ -1,6 +1,5 @@
 # Hey there 👋 
 
-## About me 😉
 <h3 align="center">I'm Ubong Jacob. A computer science student, Mobile Application Developer with React-Native (cross platform) and Android developer with Java or Kotlin on Android studio || web developer with react, angular and Django.</h3>
 
 
