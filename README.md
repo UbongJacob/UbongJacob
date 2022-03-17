@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">I'm Ubong Jacob. A computer science student, Mobile Application Developer with React-Native (cross platform) and Android developer with Java or Kotlin on Android studio || web developer with react, angular and Django.</h3>
+<h3 align="center">I'm Ubong Jacob. A computer science student, Mobile Application Developer with React-Native (cross platform) and Android developer with Java or Kotlin on Android studio || web developer with react, VueJs and Django.</h3>
 
 
 - 🌱 I’m currently learning ... React-Native.
