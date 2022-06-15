@@ -35,7 +35,7 @@
 <!--     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>  -->
 <!--     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>  -->
 <!--     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>  -->
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/flask.png"/> </a> 
+<!--     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/flask.png"/> </a>  -->
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <!--     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a> -->
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
