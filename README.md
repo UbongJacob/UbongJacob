@@ -1,13 +1,13 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">I'm Ubong Jacob. A computer science student, Mobile Application Developer with React-Native (cross platform) and Android developer with Java or Kotlin on Android studio || web developer with react, VueJs and Django.</h3>
+<h3 align="center">I'm Ubong Jacob. A Full stack Mobile Application Developer with React-Native (cross platform) and a web developer with React and VueJs. I use NodeJs and Express to create clean, maintable and scalable backend services.</h3>
 
 
-- 🌱 I’m currently learning ... React-Native.
-- 👯 I’m looking to collaborate with other React-Native developers.
+- 🌱 I’m currently learning ... React-Native, VueJs, React and NodeJs.
+- 👯 I’m looking to collaborate with other React-Native, VueJs, React and NodeJs developers.
 - 😶 I'm looking for help with ... getting gigs.
 - 💬 Ask me about ... Anything.
-- 🥅 2021Goals: Become a full stack mobile application developer.
+- 🥅 2022Goals: Become a full stack mobile and web application developer.
 - ⚡ Fun fact: I love playing chess.
 
 <p align="center"> 
