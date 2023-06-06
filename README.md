@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other React-Native, VueJs, React and NodeJs developers.
 - 😶 I'm looking for help with ... getting gigs.
 - 💬 Ask me about ... Anything.
-- 🥅 2022Goals: Become a full stack mobile and web application developer.
+- 🥅 2024Goals: Become a full stack mobile and web application developer.
 - ⚡ Fun fact: I love playing chess.
 
 <p align="center"> 
