@@ -3,11 +3,11 @@
 <h3 align="center">I'm Ubong Jacob. A Full stack Mobile Application Developer with React-Native (cross platform) and a web developer with React and VueJs. I use NodeJs and Express to create clean, maintable and scalable backend services.</h3>
 
 
-- 🌱 I’m currently learning ... NodeJs.
+- 🌱 I’m currently learning ... Web 3 (lightning network and Smart contract development ).
 - 👯 I’m looking to collaborate with other React-Native, VueJs, React and NodeJs developers.
 - 😶 I'm looking for help with ... getting gigs.
 - 💬 Ask me about ... Anything.
-- 🥅 2024Goals: Become a full stack mobile and web application developer.
+- 🥅 2024 Goals: Become a smart contract developer.
 - ⚡ Fun fact: I love playing chess.
 
 <p align="center"> 
