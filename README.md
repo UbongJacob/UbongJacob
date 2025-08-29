@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other React-Native, VueJs, React and NodeJs developers.
 - 😶 I'm looking for help with ... getting gigs.
 - 💬 Ask me about ... Anything.
-- 🥅 2024 Goals: Become a smart contract developer.
+- 🥅 2026 Goals: Become a smart contract developer.
 - ⚡ Fun fact: I love playing chess.
 
 <p align="center"> 
